@@ -4,22 +4,22 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-
+    // public variables, speed and ref rb for varible.
     public float moveSpeed = 5f;
     public Rigidbody2D rb;
-
+    
+    // vector2 allows for vector point movement.
     Vector2 movement;
-    // Update is called once per frame
     void Update()
     {
-        // Input ig
+        // grab horzontal and vertical inputs (wasd,arrows)
         movement.x = Input.GetAxisRaw("Horizontal");
         movement.y = Input.GetAxisRaw("Vertical");
     }
 
     void FixedUpdate()
     {
-        // movment i guess
+        // move rigidbody from position and movement times speed times time for framerate.
         rb.MovePosition(rb.position + movement * moveSpeed * Time.fixedDeltaTime);
     }
 }
