@@ -2988,6 +2988,8 @@ MonoBehaviour:
   m_Value: 0
   m_Options:
     m_Options:
+    - m_Text: Ultra
+      m_Image: {fileID: 0}
     - m_Text: High
       m_Image: {fileID: 0}
     - m_Text: Medium
