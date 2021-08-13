@@ -17,7 +17,7 @@ public class Spawn : MonoBehaviour
     //Called when the cross linked with the slot is clicked, to simulate dropping the item
     public void SpawnDroppedItem()
     {
-        Vector2 playerPos = new Vector2(playerTransform.position.x + 3, playerTransform.position.y); //Vector 2 that contains the player object's x position + 3 and the y position
+        Vector2 playerPos = new Vector2(playerTransform.position.x + 1, playerTransform.position.y); //Vector 2 that contains the player object's x position + 1 and the y position
         Instantiate(item, playerPos, Quaternion.identity); //Creates a new instance of the item in the slot, spawning in the position specified by the playerPos variable, with zero rotation
     }
 

@@ -18,7 +18,7 @@ public class SlotRefresh : MonoBehaviour
     {
         if (transform.childCount <= 0) //Checks how many children the game object the script is attached to has
         {
-            inventory.isFull[i] = false; //Sets the index of i in the isFull array to false
+            inventory.isFull[i] = false; //Sets the index of i in the isFull array to false if there is no children
         }
     }
 
@@ -27,7 +27,8 @@ public class SlotRefresh : MonoBehaviour
     {
         foreach (Transform child in transform) //Foreach loop that runs for the number of children of the slot
         {
-            GameObject.Destroy(child.gameObject); //Deletes the cloned objects
+            child.GetComponent<Spawn>().SpawnDroppedItem(); //Calls method that simulates dropping the item
+            GameObject.Destroy(child.gameObject); //Deletes the cloned object in the slots
         }
     }
 
