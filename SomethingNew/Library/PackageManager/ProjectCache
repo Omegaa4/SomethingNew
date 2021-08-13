@@ -1,36 +1,20 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-<<<<<<< HEAD
-    m_FilePath: C:/Users/66259/Documents/Github/SomethingNew/SomethingNew/Packages/manifest.json
-=======
     m_FilePath: E:/Liam Beasley L1 DTG/le fishe/SomethingNew/Packages/manifest.json
->>>>>>> e9ea44cadd85c548a4ed597a401a4b0bdbd9a680
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-<<<<<<< HEAD
-      ticks: 637638046412429275
-    m_Hash: 1393833703
-  m_LockFileStatus:
-    m_FilePath: C:/Users/66259/Documents/Github/SomethingNew/SomethingNew/Packages/packages-lock.json
-=======
       ticks: 637638060707275468
     m_Hash: 697632332
   m_LockFileStatus:
     m_FilePath: E:/Liam Beasley L1 DTG/le fishe/SomethingNew/Packages/packages-lock.json
->>>>>>> e9ea44cadd85c548a4ed597a401a4b0bdbd9a680
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-<<<<<<< HEAD
-      ticks: 637638046412508159
-    m_Hash: 3927221755
-=======
       ticks: 637638060707283547
     m_Hash: 741840407
->>>>>>> e9ea44cadd85c548a4ed597a401a4b0bdbd9a680
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -41,11 +25,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 5.0.4
       source: 1
-<<<<<<< HEAD
-      resolvedPath: C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\PackageCache\com.unity.2d.animation@5.0.4
-=======
       resolvedPath: E:\Liam Beasley L1 DTG\le fishe\SomethingNew\Library\PackageCache\com.unity.2d.animation@5.0.4
->>>>>>> e9ea44cadd85c548a4ed597a401a4b0bdbd9a680
       assetPath: Packages/com.unity.2d.animation
       name: com.unity.2d.animation
       displayName: 2D Animation
@@ -115,21 +95,18 @@ m_PackageAssets:
         - 5.0.4
         - 5.0.5
         - 5.0.6
-        - 5.0.7
         - 6.0.0-pre.1
         - 6.0.0-pre.2
         - 6.0.1
         - 6.0.3
         - 6.0.4
-        - 6.0.5
         - 7.0.0-pre.2
         - 7.0.0-pre.3
         compatible:
         - 5.0.4
         - 5.0.5
         - 5.0.6
-        - 5.0.7
-        verified: 5.0.7
+        verified: 5.0.6
       dependencies:
       - name: com.unity.2d.common
         version: 4.0.3
@@ -188,11 +165,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 4.0.1
       source: 1
-<<<<<<< HEAD
-      resolvedPath: C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\PackageCache\com.unity.2d.pixel-perfect@4.0.1
-=======
       resolvedPath: E:\Liam Beasley L1 DTG\le fishe\SomethingNew\Library\PackageCache\com.unity.2d.pixel-perfect@4.0.1
->>>>>>> e9ea44cadd85c548a4ed597a401a4b0bdbd9a680
       assetPath: Packages/com.unity.2d.pixel-perfect
       name: com.unity.2d.pixel-perfect
       displayName: 2D Pixel Perfect
@@ -231,7 +204,6 @@ m_PackageAssets:
         - 5.0.0-pre.1
         - 5.0.0-pre.2
         - 5.0.0
-        - 5.0.1
         compatible:
         - 4.0.1
         verified: 4.0.1
@@ -267,11 +239,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 4.0.2
       source: 1
-<<<<<<< HEAD
-      resolvedPath: C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\PackageCache\com.unity.2d.psdimporter@4.0.2
-=======
       resolvedPath: E:\Liam Beasley L1 DTG\le fishe\SomethingNew\Library\PackageCache\com.unity.2d.psdimporter@4.0.2
->>>>>>> e9ea44cadd85c548a4ed597a401a4b0bdbd9a680
       assetPath: Packages/com.unity.2d.psdimporter
       name: com.unity.2d.psdimporter
       displayName: 2D PSD Importer
@@ -439,11 +407,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 5.1.1
       source: 1
-<<<<<<< HEAD
-      resolvedPath: C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\PackageCache\com.unity.2d.spriteshape@5.1.1
-=======
       resolvedPath: E:\Liam Beasley L1 DTG\le fishe\SomethingNew\Library\PackageCache\com.unity.2d.spriteshape@5.1.1
->>>>>>> e9ea44cadd85c548a4ed597a401a4b0bdbd9a680
       assetPath: Packages/com.unity.2d.spriteshape
       name: com.unity.2d.spriteshape
       displayName: 2D SpriteShape
@@ -508,7 +472,6 @@ m_PackageAssets:
         - 5.1.1
         - 5.1.2
         - 5.1.3
-        - 5.1.4
         - 6.0.0-pre.1
         - 6.0.0-pre.2
         - 6.0.0
@@ -519,8 +482,7 @@ m_PackageAssets:
         - 5.1.1
         - 5.1.2
         - 5.1.3
-        - 5.1.4
-        verified: 5.1.4
+        verified: 5.1.3
       dependencies:
       - name: com.unity.mathematics
         version: 1.1.0
@@ -633,11 +595,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.6.5
       source: 1
-<<<<<<< HEAD
-      resolvedPath: C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\PackageCache\com.unity.cinemachine@2.6.5
-=======
       resolvedPath: E:\Liam Beasley L1 DTG\le fishe\SomethingNew\Library\PackageCache\com.unity.cinemachine@2.6.5
->>>>>>> e9ea44cadd85c548a4ed597a401a4b0bdbd9a680
       assetPath: Packages/com.unity.cinemachine
       name: com.unity.cinemachine
       displayName: Cinemachine
@@ -774,11 +732,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.3.9
       source: 1
-<<<<<<< HEAD
-      resolvedPath: C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\PackageCache\com.unity.collab-proxy@1.3.9
-=======
       resolvedPath: E:\Liam Beasley L1 DTG\le fishe\SomethingNew\Library\PackageCache\com.unity.collab-proxy@1.3.9
->>>>>>> e9ea44cadd85c548a4ed597a401a4b0bdbd9a680
       assetPath: Packages/com.unity.collab-proxy
       name: com.unity.collab-proxy
       displayName: Unity Collaborate
@@ -816,8 +770,6 @@ m_PackageAssets:
         - 1.5.7
         - 1.6.0
         - 1.7.1
-        - 1.8.0
-        - 1.9.0
         - 2.0.0-preview.6
         - 2.0.0-preview.8
         - 2.0.0-preview.15
@@ -833,7 +785,6 @@ m_PackageAssets:
         - 1.4.9
         - 1.5.7
         - 1.6.0
-        - 1.8.0
         - 2.0.0-preview.6
         - 2.0.0-preview.8
         - 2.0.0-preview.15
@@ -883,11 +834,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.7
       source: 1
-<<<<<<< HEAD
-      resolvedPath: C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\PackageCache\com.unity.ide.rider@2.0.7
-=======
       resolvedPath: E:\Liam Beasley L1 DTG\le fishe\SomethingNew\Library\PackageCache\com.unity.ide.rider@2.0.7
->>>>>>> e9ea44cadd85c548a4ed597a401a4b0bdbd9a680
       assetPath: Packages/com.unity.ide.rider
       name: com.unity.ide.rider
       displayName: JetBrains Rider Editor
@@ -994,11 +941,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.7
       source: 1
-<<<<<<< HEAD
-      resolvedPath: C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\PackageCache\com.unity.ide.visualstudio@2.0.7
-=======
       resolvedPath: E:\Liam Beasley L1 DTG\le fishe\SomethingNew\Library\PackageCache\com.unity.ide.visualstudio@2.0.7
->>>>>>> e9ea44cadd85c548a4ed597a401a4b0bdbd9a680
       assetPath: Packages/com.unity.ide.visualstudio
       name: com.unity.ide.visualstudio
       displayName: Visual Studio Editor
@@ -1085,11 +1028,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.2.3
       source: 1
-<<<<<<< HEAD
-      resolvedPath: C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\PackageCache\com.unity.ide.vscode@1.2.3
-=======
       resolvedPath: E:\Liam Beasley L1 DTG\le fishe\SomethingNew\Library\PackageCache\com.unity.ide.vscode@1.2.3
->>>>>>> e9ea44cadd85c548a4ed597a401a4b0bdbd9a680
       assetPath: Packages/com.unity.ide.vscode
       name: com.unity.ide.vscode
       displayName: Visual Studio Code Editor
@@ -1158,11 +1097,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.1.24
       source: 1
-<<<<<<< HEAD
-      resolvedPath: C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\PackageCache\com.unity.test-framework@1.1.24
-=======
       resolvedPath: E:\Liam Beasley L1 DTG\le fishe\SomethingNew\Library\PackageCache\com.unity.test-framework@1.1.24
->>>>>>> e9ea44cadd85c548a4ed597a401a4b0bdbd9a680
       assetPath: Packages/com.unity.test-framework
       name: com.unity.test-framework
       displayName: Test Framework
@@ -1254,11 +1189,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.0.4
       source: 1
-<<<<<<< HEAD
-      resolvedPath: C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\PackageCache\com.unity.textmeshpro@3.0.4
-=======
       resolvedPath: E:\Liam Beasley L1 DTG\le fishe\SomethingNew\Library\PackageCache\com.unity.textmeshpro@3.0.4
->>>>>>> e9ea44cadd85c548a4ed597a401a4b0bdbd9a680
       assetPath: Packages/com.unity.textmeshpro
       name: com.unity.textmeshpro
       displayName: TextMeshPro
@@ -1417,11 +1348,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.4.6
       source: 1
-<<<<<<< HEAD
-      resolvedPath: C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\PackageCache\com.unity.timeline@1.4.6
-=======
       resolvedPath: E:\Liam Beasley L1 DTG\le fishe\SomethingNew\Library\PackageCache\com.unity.timeline@1.4.6
->>>>>>> e9ea44cadd85c548a4ed597a401a4b0bdbd9a680
       assetPath: Packages/com.unity.timeline
       name: com.unity.timeline
       displayName: Timeline
@@ -3378,11 +3305,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.6
       source: 1
-<<<<<<< HEAD
-      resolvedPath: C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\PackageCache\com.unity.ext.nunit@1.0.6
-=======
       resolvedPath: E:\Liam Beasley L1 DTG\le fishe\SomethingNew\Library\PackageCache\com.unity.ext.nunit@1.0.6
->>>>>>> e9ea44cadd85c548a4ed597a401a4b0bdbd9a680
       assetPath: Packages/com.unity.ext.nunit
       name: com.unity.ext.nunit
       displayName: Custom NUnit
@@ -3433,11 +3356,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.1.0
       source: 1
-<<<<<<< HEAD
-      resolvedPath: C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\PackageCache\com.unity.mathematics@1.1.0
-=======
       resolvedPath: E:\Liam Beasley L1 DTG\le fishe\SomethingNew\Library\PackageCache\com.unity.mathematics@1.1.0
->>>>>>> e9ea44cadd85c548a4ed597a401a4b0bdbd9a680
       assetPath: Packages/com.unity.mathematics
       name: com.unity.mathematics
       displayName: Mathematics
@@ -3488,11 +3407,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 4.0.3
       source: 1
-<<<<<<< HEAD
-      resolvedPath: C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\PackageCache\com.unity.2d.common@4.0.3
-=======
       resolvedPath: E:\Liam Beasley L1 DTG\le fishe\SomethingNew\Library\PackageCache\com.unity.2d.common@4.0.3
->>>>>>> e9ea44cadd85c548a4ed597a401a4b0bdbd9a680
       assetPath: Packages/com.unity.2d.common
       name: com.unity.2d.common
       displayName: 2D Common
@@ -3559,11 +3474,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 4.0.1
       source: 1
-<<<<<<< HEAD
-      resolvedPath: C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\PackageCache\com.unity.2d.path@4.0.1
-=======
       resolvedPath: E:\Liam Beasley L1 DTG\le fishe\SomethingNew\Library\PackageCache\com.unity.2d.path@4.0.1
->>>>>>> e9ea44cadd85c548a4ed597a401a4b0bdbd9a680
       assetPath: Packages/com.unity.2d.path
       name: com.unity.2d.path
       displayName: 2D Path
@@ -3580,17 +3491,9 @@ m_PackageAssets:
       versions:
         all:
         - 4.0.1
-<<<<<<< HEAD
-        - 4.0.2
-        - 5.0.0-pre.1
-        - 5.0.0-pre.2
-        - 5.0.0
-=======
->>>>>>> e9ea44cadd85c548a4ed597a401a4b0bdbd9a680
         compatible:
         - 4.0.1
-        - 4.0.2
-        verified: 4.0.2
+        verified: 4.0.1
       dependencies: []
       resolvedDependencies: []
       keywords:
@@ -3618,9 +3521,5 @@ m_PackageAssets:
         path: 
   m_LocalPackages:
     m_LocalFileStatus: []
-<<<<<<< HEAD
-m_ProjectPath: C:/Users/66259/Documents/Github/SomethingNew/SomethingNew/Packages
-=======
 m_ProjectPath: E:/Liam Beasley L1 DTG/le fishe/SomethingNew/Packages
->>>>>>> e9ea44cadd85c548a4ed597a401a4b0bdbd9a680
 m_EditorVersion: 2020.3.3f1 (76626098c1c4)
