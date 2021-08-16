@@ -1,0 +1,1399 @@
+fileFormatVersion: 2
+guid: f48f5cec603fbc24ebd600bd8b5c2296
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3854107905448176489
+    second: 1stlastcavesheet-export_0
+  - first:
+      213: 2458546194189446185
+    second: 1stlastcavesheet-export_1
+  - first:
+      213: -5225267804436488299
+    second: 1stlastcavesheet-export_2
+  - first:
+      213: -1859876924152772146
+    second: 1stlastcavesheet-export_3
+  - first:
+      213: 476812350558099891
+    second: 1stlastcavesheet-export_4
+  - first:
+      213: -2716954117457765127
+    second: 1stlastcavesheet-export_5
+  - first:
+      213: -4522110349586074217
+    second: 1stlastcavesheet-export_6
+  - first:
+      213: 3930981590209952941
+    second: 1stlastcavesheet-export_7
+  - first:
+      213: 7747741220126843002
+    second: 1stlastcavesheet-export_8
+  - first:
+      213: -7001911531101515651
+    second: 1stlastcavesheet-export_9
+  - first:
+      213: 1517076649723519387
+    second: 1stlastcavesheet-export_10
+  - first:
+      213: -1020152526736793357
+    second: 1stlastcavesheet-export_11
+  - first:
+      213: 6821287299698810721
+    second: 1stlastcavesheet-export_12
+  - first:
+      213: 2023681220646031680
+    second: 1stlastcavesheet-export_13
+  - first:
+      213: -8108738643787440090
+    second: 1stlastcavesheet-export_14
+  - first:
+      213: -4051316756338906715
+    second: 1stlastcavesheet-export_15
+  - first:
+      213: 3607823931197069293
+    second: 1stlastcavesheet-export_16
+  - first:
+      213: -3645279158637885423
+    second: 1stlastcavesheet-export_17
+  - first:
+      213: -7741168906921292612
+    second: 1stlastcavesheet-export_18
+  - first:
+      213: -122759458567577943
+    second: 1stlastcavesheet-export_19
+  - first:
+      213: -4401569578234684323
+    second: 1stlastcavesheet-export_20
+  - first:
+      213: 5009954896145207543
+    second: 1stlastcavesheet-export_21
+  - first:
+      213: -8243539789350641316
+    second: 1stlastcavesheet-export_22
+  - first:
+      213: 2529183838405706409
+    second: 1stlastcavesheet-export_23
+  - first:
+      213: 2078085208223581324
+    second: 1stlastcavesheet-export_24
+  - first:
+      213: -8582704869696954488
+    second: 1stlastcavesheet-export_25
+  - first:
+      213: -4918904469376852561
+    second: 1stlastcavesheet-export_26
+  - first:
+      213: -3672651858485248660
+    second: 1stlastcavesheet-export_27
+  - first:
+      213: -6579330327854079747
+    second: 1stlastcavesheet-export_28
+  - first:
+      213: -3804147327144081473
+    second: 1stlastcavesheet-export_29
+  - first:
+      213: 6862987840138668303
+    second: 1stlastcavesheet-export_30
+  - first:
+      213: 3288157873402873837
+    second: 1stlastcavesheet-export_31
+  - first:
+      213: -4376840881723049978
+    second: 1stlastcavesheet-export_32
+  - first:
+      213: 832923922849720725
+    second: 1stlastcavesheet-export_33
+  - first:
+      213: -5580528592893793077
+    second: 1stlastcavesheet-export_34
+  - first:
+      213: 2664109592806550823
+    second: 1stlastcavesheet-export_35
+  - first:
+      213: 7938813117492646755
+    second: 1stlastcavesheet-export_36
+  - first:
+      213: 1057231217992300005
+    second: 1stlastcavesheet-export_37
+  - first:
+      213: 5868684997008474601
+    second: 1stlastcavesheet-export_38
+  - first:
+      213: 1372154495089634108
+    second: 1stlastcavesheet-export_39
+  - first:
+      213: 3409775586781341106
+    second: 1stlastcavesheet-export_40
+  - first:
+      213: -5662889004094645236
+    second: 1stlastcavesheet-export_41
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 63.9
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1stlastcavesheet-export_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7949cb9a745738ac0800000000000000
+      internalID: -3854107905448176489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1stlastcavesheet-export_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cec88dcb28e1220800000000000000
+      internalID: 2458546194189446185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1stlastcavesheet-export_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 22, y: 9}
+        - {x: 15, y: 10}
+        - {x: 8, y: 9}
+        - {x: 6, y: 6}
+        - {x: 6, y: -1}
+        - {x: 20, y: 0}
+        - {x: 23, y: 1}
+        - {x: 27, y: 6}
+      - - {x: -11, y: -5}
+        - {x: -17, y: -1}
+        - {x: -20, y: 2}
+        - {x: -21, y: 5.919098}
+        - {x: -21, y: 9}
+        - {x: -18, y: 10}
+        - {x: -14, y: 10}
+        - {x: -11, y: 9}
+        - {x: -9, y: 7}
+        - {x: -8, y: 5}
+        - {x: -6, y: 1}
+        - {x: -6, y: -5}
+      - - {x: -19, y: -27}
+        - {x: -27, y: -20}
+        - {x: -27, y: -18}
+        - {x: -26, y: -17}
+        - {x: -24, y: -17}
+        - {x: -21, y: -19}
+        - {x: -19, y: -21}
+        - {x: -18, y: -27}
+      - - {x: 20, y: -20}
+        - {x: -1, y: -21}
+        - {x: -6, y: -19}
+        - {x: -6, y: -17}
+        - {x: 0, y: -11}
+        - {x: 8, y: -9}
+        - {x: 12, y: -9}
+        - {x: 19, y: -14}
+        - {x: 21, y: -17}
+        - {x: 21, y: -19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f1744dd9e1c77b0800000000000000
+      internalID: -5225267804436488299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1stlastcavesheet-export_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 1, y: 14}
+        - {x: -2, y: 10}
+        - {x: -14, y: 11}
+        - {x: -19, y: 8}
+        - {x: -23, y: -3}
+        - {x: -16, y: -4}
+        - {x: 7, y: -10}
+        - {x: 22, y: -10}
+        - {x: 24, y: -7}
+        - {x: 20, y: -3}
+        - {x: 16, y: 6}
+        - {x: 8, y: 15}
+        - {x: 4, y: 15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec98de1aac36036e0800000000000000
+      internalID: -1859876924152772146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1stlastcavesheet-export_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 21, y: -16}
+        - {x: 16, y: -20}
+        - {x: 16, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9d88b7e4afd9600800000000000000
+      internalID: 476812350558099891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1stlastcavesheet-export_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -32}
+        - {x: -32, y: -16}
+        - {x: -22, y: -16}
+        - {x: -19, y: -17}
+        - {x: -16, y: -20}
+        - {x: -16, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc15ed00a07b4ad0800000000000000
+      internalID: -2716954117457765127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1stlastcavesheet-export_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 15, y: -32}
+        - {x: 15, y: -20}
+        - {x: 20, y: -16}
+        - {x: 32, y: -16}
+        - {x: 32, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795fdc1a89c3e31c0800000000000000
+      internalID: -4522110349586074217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1stlastcavesheet-export_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -32}
+        - {x: -32, y: -16}
+        - {x: -23, y: -16}
+        - {x: -20, y: -17}
+        - {x: -17, y: -20}
+        - {x: -17, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac7017dde6ad8630800000000000000
+      internalID: 3930981590209952941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1stlastcavesheet-export_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70ef452791858b60800000000000000
+      internalID: 7747741220126843002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1stlastcavesheet-export_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d709bf76f8634de90800000000000000
+      internalID: -7001911531101515651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1stlastcavesheet-export_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 18, y: -12}
+        - {x: 18, y: -6}
+        - {x: 14, y: 5}
+        - {x: 12, y: 7}
+        - {x: 8, y: 8}
+        - {x: -4, y: 7}
+        - {x: -7, y: 5}
+        - {x: -10, y: 5}
+        - {x: -18, y: 5}
+        - {x: -22, y: 1}
+        - {x: -25, y: -6}
+        - {x: -11, y: -13}
+        - {x: -3, y: -15}
+        - {x: 5, y: -15}
+        - {x: 7, y: -12}
+        - {x: 10, y: -13}
+        - {x: 17, y: -13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b916fc3dc2dbd0510800000000000000
+      internalID: 1517076649723519387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1stlastcavesheet-export_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 8, y: 15}
+        - {x: 4, y: 15}
+        - {x: 1, y: 14}
+        - {x: -2, y: 10}
+        - {x: -14, y: 11}
+        - {x: -17, y: 9}
+        - {x: -23, y: -3}
+        - {x: -16, y: -4}
+        - {x: -1, y: -7}
+        - {x: 7, y: -10}
+        - {x: 22, y: -10}
+        - {x: 24, y: -7}
+        - {x: 20, y: -3}
+        - {x: 14, y: 8}
+      - - {x: -12, y: -21}
+        - {x: -14, y: -23}
+        - {x: -13, y: -28}
+        - {x: -22, y: -27}
+        - {x: -24, y: -25}
+        - {x: -24, y: -15}
+        - {x: -21, y: -12}
+        - {x: -8, y: -12}
+        - {x: -8, y: -19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0e2239ea0b7d1f0800000000000000
+      internalID: -1020152526736793357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1stlastcavesheet-export_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 32}
+        - {x: 16, y: 20}
+        - {x: 20, y: 16}
+        - {x: 32, y: 16}
+        - {x: 32, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f5e6988a41aae50800000000000000
+      internalID: 6821287299698810721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1stlastcavesheet-export_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 16}
+        - {x: -32, y: 32}
+        - {x: -16, y: 32}
+        - {x: -16, y: 19}
+        - {x: -19, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0415c37295f851c10800000000000000
+      internalID: 2023681220646031680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1stlastcavesheet-export_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 19, y: 16}
+        - {x: 15, y: 20}
+        - {x: 15, y: 32}
+        - {x: 32, y: 32}
+        - {x: 32, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62021985a29f77f80800000000000000
+      internalID: -8108738643787440090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1stlastcavesheet-export_15
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: 16}
+        - {x: -32, y: 16}
+        - {x: -32, y: 32}
+        - {x: -17, y: 32}
+        - {x: -17, y: 19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9e4d9ffd4d6c7c0800000000000000
+      internalID: -4051316756338906715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1stlastcavesheet-export_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7972710c0911230800000000000000
+      internalID: 3607823931197069293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1stlastcavesheet-export_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11801423bed596dc0800000000000000
+      internalID: -3645279158637885423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1stlastcavesheet-export_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 22, y: 9}
+        - {x: 15, y: 10}
+        - {x: 8, y: 9}
+        - {x: 6, y: 6}
+        - {x: 6, y: -1}
+        - {x: 20, y: 0}
+        - {x: 23, y: 1}
+        - {x: 27, y: 6}
+      - - {x: -11, y: -5}
+        - {x: -17, y: -1}
+        - {x: -20, y: 2}
+        - {x: -21, y: 5.919098}
+        - {x: -21, y: 9}
+        - {x: -18, y: 10}
+        - {x: -14, y: 10}
+        - {x: -11, y: 9}
+        - {x: -9, y: 7}
+        - {x: -8, y: 5}
+        - {x: -6, y: 1}
+        - {x: -6, y: -5}
+      - - {x: -19, y: -27}
+        - {x: -27, y: -20}
+        - {x: -27, y: -18}
+        - {x: -26, y: -17}
+        - {x: -24, y: -17}
+        - {x: -21, y: -19}
+        - {x: -19, y: -21}
+        - {x: -18, y: -27}
+      - - {x: 20, y: -20}
+        - {x: -1, y: -21}
+        - {x: -6, y: -19}
+        - {x: -6, y: -17}
+        - {x: 0, y: -11}
+        - {x: 8, y: -9}
+        - {x: 12, y: -9}
+        - {x: 19, y: -14}
+        - {x: 21, y: -17}
+        - {x: 21, y: -19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc48a4c4e7d19490800000000000000
+      internalID: -7741168906921292612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1stlastcavesheet-export_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 8, y: 15}
+        - {x: 4, y: 15}
+        - {x: 1, y: 14}
+        - {x: -2, y: 10}
+        - {x: -14, y: 11}
+        - {x: -17, y: 9}
+        - {x: -23, y: -3}
+        - {x: -16, y: -4}
+        - {x: -1, y: -7}
+        - {x: 7, y: -10}
+        - {x: 22, y: -10}
+        - {x: 24, y: -7}
+        - {x: 20, y: -3}
+        - {x: 14, y: 8}
+      - - {x: -12, y: -21}
+        - {x: -14, y: -23}
+        - {x: -13, y: -28}
+        - {x: -22, y: -27}
+        - {x: -24, y: -25}
+        - {x: -24, y: -15}
+        - {x: -21, y: -12}
+        - {x: -8, y: -12}
+        - {x: -8, y: -19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae924f3ceedb4ef0800000000000000
+      internalID: -122759458567577943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1stlastcavesheet-export_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5cd7230acb7ae2c0800000000000000
+      internalID: -4401569578234684323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1stlastcavesheet-export_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0d6752f6fe68540800000000000000
+      internalID: 5009954896145207543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1stlastcavesheet-export_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 18, y: -12}
+        - {x: 18, y: -6}
+        - {x: 14, y: 5}
+        - {x: 12, y: 7}
+        - {x: 8, y: 8}
+        - {x: -4, y: 7}
+        - {x: -7, y: 5}
+        - {x: -10, y: 5}
+        - {x: -18, y: 5}
+        - {x: -22, y: 1}
+        - {x: -25, y: -6}
+        - {x: -11, y: -13}
+        - {x: -3, y: -15}
+        - {x: 5, y: -15}
+        - {x: 7, y: -12}
+        - {x: 10, y: -13}
+        - {x: 17, y: -13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51e4fbdc30199d80800000000000000
+      internalID: -8243539789350641316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1stlastcavesheet-export_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 8, y: 15}
+        - {x: 4, y: 15}
+        - {x: 1, y: 14}
+        - {x: -2, y: 10}
+        - {x: -14, y: 11}
+        - {x: -17, y: 9}
+        - {x: -23, y: -3}
+        - {x: -16, y: -4}
+        - {x: -1, y: -7}
+        - {x: 7, y: -10}
+        - {x: 22, y: -10}
+        - {x: 24, y: -7}
+        - {x: 20, y: -3}
+        - {x: 14, y: 8}
+      - - {x: -12, y: -21}
+        - {x: -14, y: -23}
+        - {x: -13, y: -28}
+        - {x: -22, y: -27}
+        - {x: -24, y: -25}
+        - {x: -24, y: -15}
+        - {x: -21, y: -12}
+        - {x: -8, y: -12}
+        - {x: -8, y: -19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2c4d30d47791320800000000000000
+      internalID: 2529183838405706409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1stlastcavesheet-export_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: -16, y: -32}
+        - {x: -15, y: -25}
+        - {x: -12, y: -17}
+        - {x: -12, y: -12}
+        - {x: -13, y: -6}
+        - {x: -15, y: -3}
+        - {x: -15, y: 2}
+        - {x: -6, y: 15}
+        - {x: 15, y: 14}
+        - {x: 32, y: 16}
+        - {x: 32, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8409299c77d6dc10800000000000000
+      internalID: 2078085208223581324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1stlastcavesheet-export_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f92b5e46b14e880800000000000000
+      internalID: -8582704869696954488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1stlastcavesheet-export_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad16b2527a8cbbb0800000000000000
+      internalID: -4918904469376852561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1stlastcavesheet-export_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6dfe4fd79e180dc0800000000000000
+      internalID: -3672651858485248660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1stlastcavesheet-export_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0ad44fce581b4a0800000000000000
+      internalID: -6579330327854079747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1stlastcavesheet-export_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb743544924f43bc0800000000000000
+      internalID: -3804147327144081473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1stlastcavesheet-export_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f096a45341b3e3f50800000000000000
+      internalID: 6862987840138668303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1stlastcavesheet-export_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de705991a22e1ad20800000000000000
+      internalID: 3288157873402873837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1stlastcavesheet-export_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6087d7658665243c0800000000000000
+      internalID: -4376840881723049978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1stlastcavesheet-export_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599e16215e32f8b00800000000000000
+      internalID: 832923922849720725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1stlastcavesheet-export_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcca7a9cfcafd82b0800000000000000
+      internalID: -5580528592893793077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1stlastcavesheet-export_35
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72de1f14f81d8f420800000000000000
+      internalID: 2664109592806550823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1stlastcavesheet-export_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3635c5ef7745c2e60800000000000000
+      internalID: 7938813117492646755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1stlastcavesheet-export_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e572e9f03a0cae00800000000000000
+      internalID: 1057231217992300005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1stlastcavesheet-export_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1ca5149e1c17150800000000000000
+      internalID: 5868684997008474601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1stlastcavesheet-export_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3be5c84e3fda0310800000000000000
+      internalID: 1372154495089634108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1stlastcavesheet-export_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5a6e594d4f15f20800000000000000
+      internalID: 3409775586781341106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1stlastcavesheet-export_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c197c34706961b0800000000000000
+      internalID: -5662889004094645236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
