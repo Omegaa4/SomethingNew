@@ -1579,7 +1579,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1334719033}
+      - m_Target: {fileID: 448572299}
         m_TargetAssemblyTypeName: LevelLoader, Assembly-CSharp
         m_MethodName: PlayGame
         m_Mode: 1
@@ -1965,6 +1965,7 @@ GameObject:
   - component: {fileID: 514707645}
   - component: {fileID: 514707649}
   - component: {fileID: 514707650}
+  - component: {fileID: 514707651}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -2079,8 +2080,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 779ff3b1eac762d4a897ad12c0c9288a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  transition: {fileID: 0}
+  transition: {fileID: 1428061253}
   transitionTime: 1
+--- !u!225 &514707651
+CanvasGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 514707644}
+  m_Enabled: 1
+  m_Alpha: 1
+  m_Interactable: 1
+  m_BlocksRaycasts: 1
+  m_IgnoreParentGroups: 0
 --- !u!1 &584093143
 GameObject:
   m_ObjectHideFlags: 0

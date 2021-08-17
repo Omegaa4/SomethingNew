@@ -12,6 +12,7 @@ public class LevelLoader : MonoBehaviour
     public void PlayGame()
     {    
        LoadNextLevel();
+        Debug.Log("Play");
     }
 
     public void LoadNextLevel()

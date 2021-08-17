@@ -5,10 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class MainMenu : MonoBehaviour {
 
-    public void PlayGame ()
-    {
-        Debug.Log("Play");
-    }
+ //PlayGame() function has been moved to LevelLoader script for ease of coding
 
     public void QuitGame ()
     {
