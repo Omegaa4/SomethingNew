@@ -15,11 +15,11 @@ C:/Users/66259/Documents/Github/SomethingNew/SomethingNew
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-57641
+59711
 Successfully changed project path to: C:/Users/66259/Documents/Github/SomethingNew/SomethingNew
 C:/Users/66259/Documents/Github/SomethingNew/SomethingNew
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 34.00 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 33.66 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.3f1 (76626098c1c4)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Resources/UnitySubsystems
@@ -35,94 +35,94 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56528
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56016
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002096 seconds.
+Registered in 0.002160 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 34.12 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 35.87 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.544 seconds
+- Completed reload, in  1.558 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.000759 seconds.
+Registered in 0.000811 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file data-000001AC62D886F0 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
+Symbol file data-0000021E2064EDF0 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001AC63656040 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
+Symbol file data-0000021E20E24F80 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001ADFDDCDDD0 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file data-0000021E246BF640 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001ADFDB0FE10 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
+Symbol file data-0000021E208392F0 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001AC62399A80 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\PsdPlugin.dll
+Symbol file data-0000021E209E6E50 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\PsdPlugin.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001ADFDAA3010 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file data-0000021E24612220 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001ADFDEEF0B0 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file data-0000021E247087E0 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001AC62399A80 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file data-0000021E24C51020 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001ADFDAA3010 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file data-0000021E24612220 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.Timeline.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001AC628C2010 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file data-0000021E2539C010 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.TextMeshPro.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001ADFDAA3010 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file data-0000021E24612220 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001ADFDBFC040 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
+Symbol file data-0000021E20A6AB00 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001AC62DB6D20 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
+Symbol file data-0000021E205A8030 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001AC63D78020 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
+Symbol file data-0000021E25134010 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001AC62F3B030 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
+Symbol file data-0000021E20904E90 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001ADFDEEF0B0 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file data-0000021E247087E0 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.Rider.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001ADFDD03540 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.Mathematics.dll
+Symbol file data-0000021E25F56040 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.Mathematics.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001ADFDDCDDD0 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
+Symbol file data-0000021E20A6AB00 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001AC6276A010 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\Cinemachine.dll
+Symbol file data-0000021E249CE010 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\Cinemachine.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001AC62799020 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
+Symbol file data-0000021E249FD020 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001AC6296A010 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
+Symbol file data-0000021E24B1E010 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001ADFDAB1270 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
+Symbol file data-0000021E24620480 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001ADFDC6A150 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
+Symbol file data-0000021E25D98020 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001AC6296A010 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file data-0000021E24B1E010 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001AC625FBA20 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file data-0000021E2495BA20 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001ADFDC26030 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
+Symbol file data-0000021E203BD7A0 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001ADFE2F99B0 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
+Symbol file data-0000021E20CCAE60 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001ADFDEC5040 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
+Symbol file data-0000021E20906E00 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001ADFDC44030 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
+Symbol file data-0000021E24C59030 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001AC625FBA20 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
+Symbol file data-0000021E24CC6010 doesn't match image C:\Users\66259\Documents\Github\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
 Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 33.72 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 33.61 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.761 seconds
+- Completed reload, in  0.800 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
@@ -130,73 +130,121 @@ Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 second
 Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1979 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 92.4 MB.
+System memory in use before: 92.3 MB.
 System memory in use after: 92.3 MB.
 
 Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2422.
-Total: 2.065700 ms (FindLiveObjects: 0.229000 ms CreateObjectMapping: 0.051800 ms MarkObjects: 1.655700 ms  DeleteObjects: 0.128400 ms)
+Total: 2.020300 ms (FindLiveObjects: 0.226400 ms CreateObjectMapping: 0.045300 ms MarkObjects: 1.619200 ms  DeleteObjects: 0.128100 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Scenes
-  artifactKey: Guid(a4a842dd1ab9c554ca7360576456935c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes using Guid(a4a842dd1ab9c554ca7360576456935c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25a48815c6cdc6df62a96082b2ebcc4b') in 0.005949 seconds
-  Import took 0.008517 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000265 seconds.
-  path: Assets/Scenes/Main.unity
-  artifactKey: Guid(00dd1e99447762a43896ba18bcfbc573) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Main.unity using Guid(00dd1e99447762a43896ba18bcfbc573) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf822e274255ad1ecfb0b62d765cdaae') in 0.008977 seconds
-  Import took 0.011537 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 889.996659 seconds.
   path: Assets/Art/Tilemaps/1stlastcavesheet-export.png
   artifactKey: Guid(f48f5cec603fbc24ebd600bd8b5c2296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Tilemaps/1stlastcavesheet-export.png using Guid(f48f5cec603fbc24ebd600bd8b5c2296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11d1b0b3b88e61a5ba4cb3129feacbeb') in 0.071678 seconds
-  Import took 0.074797 seconds .
+Start importing Assets/Art/Tilemaps/1stlastcavesheet-export.png using Guid(f48f5cec603fbc24ebd600bd8b5c2296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e48ecf4bd652330fbdd15ca31ed73c63') in 0.116549 seconds
+  Import took 0.119671 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 9.015186 seconds.
+  Time since last request: 7.071990 seconds.
   path: Assets/Art/Tilemaps/1stlastcavesheet-export.png
   artifactKey: Guid(f48f5cec603fbc24ebd600bd8b5c2296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Tilemaps/1stlastcavesheet-export.png using Guid(f48f5cec603fbc24ebd600bd8b5c2296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0339e39b49f103ddf870a1d69529bef5') in 0.017870 seconds
-  Import took 0.020934 seconds .
+Start importing Assets/Art/Tilemaps/1stlastcavesheet-export.png using Guid(f48f5cec603fbc24ebd600bd8b5c2296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ce02d0bd69ed694474848e86d86c483') in 0.077304 seconds
+  Import took 0.080534 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 15.118276 seconds.
+  Time since last request: 46.998838 seconds.
   path: Assets/Art/Tilemaps/1stlastcavesheet-export.png
   artifactKey: Guid(f48f5cec603fbc24ebd600bd8b5c2296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Tilemaps/1stlastcavesheet-export.png using Guid(f48f5cec603fbc24ebd600bd8b5c2296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3d118305736d435270f9c1934bc5951') in 0.010097 seconds
-  Import took 0.013133 seconds .
+Start importing Assets/Art/Tilemaps/1stlastcavesheet-export.png using Guid(f48f5cec603fbc24ebd600bd8b5c2296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6df34ec83dd6d0c08bd42d7d46cd98d') in 0.061803 seconds
+  Import took 0.065021 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 17.454453 seconds.
+  Time since last request: 11.430095 seconds.
   path: Assets/Art/Tilemaps/1stlastcavesheet-export.png
   artifactKey: Guid(f48f5cec603fbc24ebd600bd8b5c2296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Tilemaps/1stlastcavesheet-export.png using Guid(f48f5cec603fbc24ebd600bd8b5c2296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '982b2b4876a0574ff6a97173b9129a13') in 0.008111 seconds
-  Import took 0.010901 seconds .
+Start importing Assets/Art/Tilemaps/1stlastcavesheet-export.png using Guid(f48f5cec603fbc24ebd600bd8b5c2296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1ff7df263964d42e4bb92a18f6cd0af') in 0.216141 seconds
+  Import took 0.219579 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 122.591941 seconds.
+  Time since last request: 7.685439 seconds.
   path: Assets/Art/Tilemaps/1stlastcavesheet-export.png
   artifactKey: Guid(f48f5cec603fbc24ebd600bd8b5c2296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Tilemaps/1stlastcavesheet-export.png using Guid(f48f5cec603fbc24ebd600bd8b5c2296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c5049126d4d5417f02025e170454061') in 0.068136 seconds
-  Import took 0.071260 seconds .
+Start importing Assets/Art/Tilemaps/1stlastcavesheet-export.png using Guid(f48f5cec603fbc24ebd600bd8b5c2296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e86b49ae7406831679c5bf2fe4140e2') in 0.102934 seconds
+  Import took 0.106280 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 459.025114 seconds.
+  Time since last request: 12.417421 seconds.
   path: Assets/Art/Tilemaps/1stlastcavesheet-export.png
   artifactKey: Guid(f48f5cec603fbc24ebd600bd8b5c2296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Tilemaps/1stlastcavesheet-export.png using Guid(f48f5cec603fbc24ebd600bd8b5c2296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcf62ac092244264a2ec84d71ca321d2') in 0.075781 seconds
-  Import took 0.079233 seconds .
+Start importing Assets/Art/Tilemaps/1stlastcavesheet-export.png using Guid(f48f5cec603fbc24ebd600bd8b5c2296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd511cdc674eba484c17ebaa2bc169bf4') in 0.210431 seconds
+  Import took 0.213668 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 115.503612 seconds.
+  path: Assets/Art/Tilemaps/1stlastcavesheet-export.png
+  artifactKey: Guid(f48f5cec603fbc24ebd600bd8b5c2296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tilemaps/1stlastcavesheet-export.png using Guid(f48f5cec603fbc24ebd600bd8b5c2296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23ead0af3f509de8920778970dd986e1') in 0.218024 seconds
+  Import took 0.221412 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.016209 seconds.
+  path: Assets/Art/Tilemaps/1stlastcavesheet-export.png
+  artifactKey: Guid(f48f5cec603fbc24ebd600bd8b5c2296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tilemaps/1stlastcavesheet-export.png using Guid(f48f5cec603fbc24ebd600bd8b5c2296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '076c51745556b5ee904f549a2c0b8b48') in 0.107630 seconds
+  Import took 0.110873 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.399873 seconds.
+  path: Assets/Art/Tilemaps/1stlastcavesheet-export.png
+  artifactKey: Guid(f48f5cec603fbc24ebd600bd8b5c2296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tilemaps/1stlastcavesheet-export.png using Guid(f48f5cec603fbc24ebd600bd8b5c2296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9a8c884dfee8aff75d85803fac93dc6') in 0.069408 seconds
+  Import took 0.072628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.883457 seconds.
+  path: Assets/Art/Tilemaps/1stlastcavesheet-export.png
+  artifactKey: Guid(f48f5cec603fbc24ebd600bd8b5c2296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tilemaps/1stlastcavesheet-export.png using Guid(f48f5cec603fbc24ebd600bd8b5c2296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c873703db9a1c11a9d537a9f07ce3930') in 0.070945 seconds
+  Import took 0.074136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.343169 seconds.
+  path: Assets/Art/Tilemaps/1stlastcavesheet-export.png
+  artifactKey: Guid(f48f5cec603fbc24ebd600bd8b5c2296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tilemaps/1stlastcavesheet-export.png using Guid(f48f5cec603fbc24ebd600bd8b5c2296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '921e2381d54cd3f916ee49de599d9b5b') in 0.113547 seconds
+  Import took 0.116767 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.626015 seconds.
+  path: Assets/Art/Tilemaps/1stlastcavesheet-export.png
+  artifactKey: Guid(f48f5cec603fbc24ebd600bd8b5c2296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tilemaps/1stlastcavesheet-export.png using Guid(f48f5cec603fbc24ebd600bd8b5c2296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '246fadeefccd33f110ca90da19a6ce86') in 0.228733 seconds
+  Import took 0.232052 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 92.037485 seconds.
+  path: Assets/Art/Tilemaps/1stlastcavesheet-export.png
+  artifactKey: Guid(f48f5cec603fbc24ebd600bd8b5c2296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tilemaps/1stlastcavesheet-export.png using Guid(f48f5cec603fbc24ebd600bd8b5c2296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9823c0c0db46b0479f2cfa895879c9d8') in 0.177398 seconds
+  Import took 0.180839 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 175.685214 seconds.
+  path: Assets/Art/Tilemaps/1stlastcavesheet-export.png
+  artifactKey: Guid(f48f5cec603fbc24ebd600bd8b5c2296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tilemaps/1stlastcavesheet-export.png using Guid(f48f5cec603fbc24ebd600bd8b5c2296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0b542c1cb94dc4d4509e74d01e1e3f1') in 0.067648 seconds
+  Import took 0.070899 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
