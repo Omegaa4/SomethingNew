@@ -1,6 +1,6 @@
 Using pre-set license
 Built from '2020.3/staging' branch; Version is '2020.3.3f1 (76626098c1c4) revision 7758432'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Pro; OS build 19043.1165; Version 2009; 64bit' Language: 'en' Physical Memory: 32612 MB
+OS: 'Windows 10 Pro; OS build 19043.1165; Version 2009; 64bit' Language: 'en' Physical Memory: 14284 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
@@ -11,173 +11,296 @@ C:\Program Files\Unity\Hub\Editor\2020.3.3f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/linyx/Documents/Code/Omegaa4/DTGGANG/SomethingNew/SomethingNew
+C:/Users/admin/Documents/GitHub/SomethingNew/SomethingNew
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-63204
-Successfully changed project path to: C:/Users/linyx/Documents/Code/Omegaa4/DTGGANG/SomethingNew/SomethingNew
-C:/Users/linyx/Documents/Code/Omegaa4/DTGGANG/SomethingNew/SomethingNew
+64900
+Successfully changed project path to: C:/Users/admin/Documents/GitHub/SomethingNew/SomethingNew
+C:/Users/admin/Documents/GitHub/SomethingNew/SomethingNew
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 38.63 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 59.51 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.3f1 (76626098c1c4)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/linyx/Documents/Code/Omegaa4/DTGGANG/SomethingNew/SomethingNew/Assets
+[Subsystems] Discovering subsystems at path C:/Users/admin/Documents/GitHub/SomethingNew/SomethingNew/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c8c)
+    Renderer: AMD Radeon(TM) RX Vega 11 Graphics (ID=0x15dd)
     Vendor:   
-    VRAM:     4018 MB
-    Driver:   30.0.14.7141
+    VRAM:     7142 MB
+    Driver:   27.20.1034.6
 Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56492
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56916
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002218 seconds.
+Registered in 0.002469 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 38.20 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 49.54 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.109 seconds
+- Completed reload, in  1.486 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001087 seconds.
+Registered in 0.001813 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file data-00000209A573F020 doesn't match image C:\Users\linyx\Documents\Code\Omegaa4\DTGGANG\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
+Symbol file data-000001E073CE1D20 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000209A60B5D90 doesn't match image C:\Users\linyx\Documents\Code\Omegaa4\DTGGANG\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
+Symbol file data-000001DEC75DC9A0 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000209A0B32420 doesn't match image C:\Users\linyx\Documents\Code\Omegaa4\DTGGANG\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file data-000001E073E893C0 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000209A60B2030 doesn't match image C:\Users\linyx\Documents\Code\Omegaa4\DTGGANG\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
+Symbol file data-000001E0753272A0 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000209A0A4E730 doesn't match image C:\Users\linyx\Documents\Code\Omegaa4\DTGGANG\SomethingNew\SomethingNew\Library\ScriptAssemblies\PsdPlugin.dll
+Symbol file data-000001E073E5C020 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\PsdPlugin.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000209A060B8C0 doesn't match image C:\Users\linyx\Documents\Code\Omegaa4\DTGGANG\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file data-000001E073E5C020 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000209A09BB510 doesn't match image C:\Users\linyx\Documents\Code\Omegaa4\DTGGANG\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file data-000001E0752CE850 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000209A0A4E730 doesn't match image C:\Users\linyx\Documents\Code\Omegaa4\DTGGANG\SomethingNew\SomethingNew\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file data-000001E073D18D30 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000209A060B8C0 doesn't match image C:\Users\linyx\Documents\Code\Omegaa4\DTGGANG\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file data-000001E075701700 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.Timeline.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000209A549F020 doesn't match image C:\Users\linyx\Documents\Code\Omegaa4\DTGGANG\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file data-000001E0723FC030 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.TextMeshPro.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000209A54CCA30 doesn't match image C:\Users\linyx\Documents\Code\Omegaa4\DTGGANG\SomethingNew\SomethingNew\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file data-000001E072429A40 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000209A0B32420 doesn't match image C:\Users\linyx\Documents\Code\Omegaa4\DTGGANG\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
+Symbol file data-000001E073C03C30 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000209A09BB510 doesn't match image C:\Users\linyx\Documents\Code\Omegaa4\DTGGANG\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
+Symbol file data-000001E0752CE850 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000209A521D030 doesn't match image C:\Users\linyx\Documents\Code\Omegaa4\DTGGANG\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
+Symbol file data-000001E07391F490 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000209A0A3D740 doesn't match image C:\Users\linyx\Documents\Code\Omegaa4\DTGGANG\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
+Symbol file data-000001E0722324E0 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000209A59B3A20 doesn't match image C:\Users\linyx\Documents\Code\Omegaa4\DTGGANG\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file data-000001E075709710 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.Rider.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000209A0A60DE0 doesn't match image C:\Users\linyx\Documents\Code\Omegaa4\DTGGANG\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.Mathematics.dll
+Symbol file data-000001E072320320 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.Mathematics.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000209A5842630 doesn't match image C:\Users\linyx\Documents\Code\Omegaa4\DTGGANG\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
+Symbol file data-000001E073E893C0 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000209A59CD310 doesn't match image C:\Users\linyx\Documents\Code\Omegaa4\DTGGANG\SomethingNew\SomethingNew\Library\ScriptAssemblies\Cinemachine.dll
+Symbol file data-000001E074DFF690 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\Cinemachine.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000209A0B64F50 doesn't match image C:\Users\linyx\Documents\Code\Omegaa4\DTGGANG\SomethingNew\SomethingNew\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
+Symbol file data-000001E07414F020 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000209A07E8760 doesn't match image C:\Users\linyx\Documents\Code\Omegaa4\DTGGANG\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
+Symbol file data-000001E074DFF690 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000209A4D0EA60 doesn't match image C:\Users\linyx\Documents\Code\Omegaa4\DTGGANG\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
+Symbol file data-000001E075583020 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000209A4D163D0 doesn't match image C:\Users\linyx\Documents\Code\Omegaa4\DTGGANG\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
+Symbol file data-000001E073CE1020 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000209A07E8760 doesn't match image C:\Users\linyx\Documents\Code\Omegaa4\DTGGANG\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file data-000001E074270010 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000209A4FC7A20 doesn't match image C:\Users\linyx\Documents\Code\Omegaa4\DTGGANG\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file data-000001E074FADA20 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000209A66C3050 doesn't match image C:\Users\linyx\Documents\Code\Omegaa4\DTGGANG\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
+Symbol file data-000001E07207B030 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000209A0899600 doesn't match image C:\Users\linyx\Documents\Code\Omegaa4\DTGGANG\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
+Symbol file data-000001E073C6BA20 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000209A4FCCE30 doesn't match image C:\Users\linyx\Documents\Code\Omegaa4\DTGGANG\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
+Symbol file data-000001E07506CE20 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000209A5842630 doesn't match image C:\Users\linyx\Documents\Code\Omegaa4\DTGGANG\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
+Symbol file data-000001E073E893C0 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000209A59CD310 doesn't match image C:\Users\linyx\Documents\Code\Omegaa4\DTGGANG\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
+Symbol file data-000001E074045520 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
 Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 38.73 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 52.15 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.945 seconds
+- Completed reload, in  1.310 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
-Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1980 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 92.4 MB.
+System memory in use before: 92.5 MB.
 System memory in use after: 92.4 MB.
 
 Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2424.
-Total: 2.267400 ms (FindLiveObjects: 0.194400 ms CreateObjectMapping: 0.078900 ms MarkObjects: 1.878300 ms  DeleteObjects: 0.114900 ms)
+Total: 4.021600 ms (FindLiveObjects: 0.546400 ms CreateObjectMapping: 0.291600 ms MarkObjects: 3.010400 ms  DeleteObjects: 0.171700 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Art/Palettes/Cave2_ElectricBoogaloo..prefab
-  artifactKey: Guid(a1b48ec4c1c1d9b46b876e1088f5594b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Palettes/Cave2_ElectricBoogaloo..prefab using Guid(a1b48ec4c1c1d9b46b876e1088f5594b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3451121c6c21eed098904c12a7876619') in 0.045950 seconds
-  Import took 0.049097 seconds .
+  path: Assets/lightningButton.prefab
+  artifactKey: Guid(3af5773605d637a4788d422769564de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/lightningButton.prefab using Guid(3af5773605d637a4788d422769564de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '104a46c9ddca7c47492d5d4ae474a0c1') in 0.082159 seconds
+  Import took 0.086210 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 4.788160 seconds.
-  path: Assets/Scripts/LoadingScreen.cs
-  artifactKey: Guid(9229cf2b58adbc74db4ebaefa694a50e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/LoadingScreen.cs using Guid(9229cf2b58adbc74db4ebaefa694a50e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22687a32fe3e4030961711807d056377') in 0.007385 seconds
-  Import took 0.010339 seconds .
+  Time since last request: 134.593896 seconds.
+  path: Assets/Art/Cross.png
+  artifactKey: Guid(22463798c75c7b24799612c9c4f3dc0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Cross.png using Guid(22463798c75c7b24799612c9c4f3dc0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2996b63bca91f47afaa5767153ef1bde') in 0.109587 seconds
+  Import took 0.113804 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 19.291996 seconds.
-  path: Assets/Scripts/enemy.cs
-  artifactKey: Guid(bef001d782a8c2449a14c1076c49a76b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/enemy.cs using Guid(bef001d782a8c2449a14c1076c49a76b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9e967662de80102c32681f325072f44') in 0.005902 seconds
-  Import took 0.009201 seconds .
+  Time since last request: 0.000192 seconds.
+  path: Assets/Art/inventoryslot1.png
+  artifactKey: Guid(6d881f68319461d4993fdb2e592ae00d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/inventoryslot1.png using Guid(6d881f68319461d4993fdb2e592ae00d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17768b3fd9e2825a9be762ed8856a986') in 0.015007 seconds
+  Import took 0.018645 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 17.951429 seconds.
-  path: Assets/Scripts/Menus
-  artifactKey: Guid(e114d54638d49414ebdbad7bafd4406f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Menus using Guid(e114d54638d49414ebdbad7bafd4406f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ad285d110deb340a86028b05026c5c4') in 0.006158 seconds
-  Import took 0.009209 seconds .
+  Time since last request: 0.000240 seconds.
+  path: Assets/Art/lightningbolt.png
+  artifactKey: Guid(d3334524ae135e14ba59de84382494ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/lightningbolt.png using Guid(d3334524ae135e14ba59de84382494ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbe287d984eb2df34f9ccbbf1c570a4b') in 0.015708 seconds
+  Import took 0.019307 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.551236 seconds.
-  path: Assets/Scripts/Scene transitions
-  artifactKey: Guid(d231b8a23037f824e88dc5941a420144) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Scene transitions using Guid(d231b8a23037f824e88dc5941a420144) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '131996bf877c1383016e9ee77b332d87') in 0.007179 seconds
-  Import took 0.010083 seconds .
+  Time since last request: 9.881963 seconds.
+  path: Assets/Art/mcidle2.png
+  artifactKey: Guid(33420ad57e6f61f44a4ee60bb44c9332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/mcidle2.png using Guid(33420ad57e6f61f44a4ee60bb44c9332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc8b951fb0930391ccad5eac1ea7cf56') in 0.023152 seconds
+  Import took 0.027551 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 16.800134 seconds.
-  path: Assets/Scripts/Menus/MainMenu.cs
-  artifactKey: Guid(fb28e104820d7654282556a2018edfc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Menus/MainMenu.cs using Guid(fb28e104820d7654282556a2018edfc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38db0631e19bd8fe1cf3e42b8d8cca3f') in 0.005576 seconds
-  Import took 0.009385 seconds .
+  Time since last request: 0.006620 seconds.
+  path: Assets/Art/mcidle2.png
+  artifactKey: Guid(33420ad57e6f61f44a4ee60bb44c9332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/mcidle2.png using Guid(33420ad57e6f61f44a4ee60bb44c9332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc8b951fb0930391ccad5eac1ea7cf56') in 0.011188 seconds
+  Import took 0.014953 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.501264 seconds.
+  path: Assets/Art/mcidle2.png
+  artifactKey: Guid(33420ad57e6f61f44a4ee60bb44c9332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/mcidle2.png using Guid(33420ad57e6f61f44a4ee60bb44c9332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '284bb7540ef7a07f7182e912a50041de') in 0.012619 seconds
+  Import took 0.016930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.199895 seconds.
+  path: Assets/Art/mcidle2.png
+  artifactKey: Guid(33420ad57e6f61f44a4ee60bb44c9332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/mcidle2.png using Guid(33420ad57e6f61f44a4ee60bb44c9332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9aed4e0c9ec932b981a118d02764a350') in 0.011699 seconds
+  Import took 0.015437 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.698251 seconds.
+  path: Assets/Art/mcidle2.png
+  artifactKey: Guid(33420ad57e6f61f44a4ee60bb44c9332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/mcidle2.png using Guid(33420ad57e6f61f44a4ee60bb44c9332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '873130061a587eeb797c29dd9682b197') in 0.009839 seconds
+  Import took 0.013418 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.230292 seconds.
+  path: Assets/Art/mcidle2.png
+  artifactKey: Guid(33420ad57e6f61f44a4ee60bb44c9332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/mcidle2.png using Guid(33420ad57e6f61f44a4ee60bb44c9332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0f8b43ceaed677bafcf95dc74be2b95') in 0.009835 seconds
+  Import took 0.013592 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.477863 seconds.
+  path: Assets/Art/Tilemaps/ffixedfusedfinalsheet.png
+  artifactKey: Guid(10fd1de5bfa667048a662238fc59f22a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tilemaps/ffixedfusedfinalsheet.png using Guid(10fd1de5bfa667048a662238fc59f22a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45bc13989c6dcb23bf095a118486ffdf') in 0.081711 seconds
+  Import took 0.086137 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001286 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-000001E071FBC010 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DEC75DD0E0 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001E075644040 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001E075647250 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001E072008030 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\PsdPlugin.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001E0752B9020 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001E073D18D30 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001E072008030 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001E07202FAF0 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001E0756E76F0 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001E07214A010 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001E071FE9A20 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001E075892220 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001E072008030 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001E075647250 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001E0721C8DC0 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001E0722C7AF0 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.Mathematics.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001E071FE9A20 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001E0759D8470 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\Cinemachine.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001E072158270 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001E073EF3010 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001E0721C8DC0 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001E07243A450 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001E073900080 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001E073951330 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001E07222E4F0 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001E074E72950 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001E073951330 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001E071FE9A20 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001E075D0F020 doesn't match image C:\Users\admin\Documents\GitHub\SomethingNew\SomethingNew\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.032 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1960 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 94.2 MB.
+System memory in use after: 94.2 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2438.
+Total: 2.933400 ms (FindLiveObjects: 0.257100 ms CreateObjectMapping: 0.064200 ms MarkObjects: 2.442500 ms  DeleteObjects: 0.167900 ms)
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
