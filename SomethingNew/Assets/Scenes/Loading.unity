@@ -607,7 +607,16 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Click anywhere to continue
+  m_text: 'Names, characters, business, events and incidents are the products of
+    the authors'' imagination.
+
+    Any resemblance to actual persons, living or
+    dead, or actual events is purely coincidental.
+
+    Do not recreate any actions
+    seen in game.
+
+    (Click anywhere to continue)'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 0445ab6c8d5242e4095312a5e01b5bb2, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 0445ab6c8d5242e4095312a5e01b5bb2, type: 2}
