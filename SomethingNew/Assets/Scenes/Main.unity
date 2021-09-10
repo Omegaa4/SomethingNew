@@ -1185,7 +1185,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 10
   startWaitTime: 0
-  movePositions: []
+  movePositions:
+  - {fileID: 2082337836}
+  - {fileID: 1247208339}
+  - {fileID: 1725301979}
+  - {fileID: 1279672546}
 --- !u!212 &488032743
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -28029,7 +28033,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 10
   startWaitTime: 0
-  movePositions: []
+  movePositions:
+  - {fileID: 202976936}
+  - {fileID: 414809341}
+  - {fileID: 1623688671}
+  - {fileID: 232970828}
 --- !u!212 &982583360
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -28334,7 +28342,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 10
   startWaitTime: 0
-  movePositions: []
+  movePositions:
+  - {fileID: 1317953940}
+  - {fileID: 1744552912}
+  - {fileID: 1873557211}
+  - {fileID: 1643508371}
 --- !u!212 &1371346139
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -29018,7 +29030,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 10
   startWaitTime: 0
-  movePositions: []
+  movePositions:
+  - {fileID: 1636880849}
+  - {fileID: 1446382658}
+  - {fileID: 1768111994}
+  - {fileID: 853756222}
 --- !u!212 &1782465755
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -29275,7 +29291,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 10
   startWaitTime: 0
-  movePositions: []
+  movePositions:
+  - {fileID: 125830145}
+  - {fileID: 431297685}
+  - {fileID: 1842458544}
+  - {fileID: 1662583106}
 --- !u!212 &1874889968
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -29719,7 +29739,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 10
   startWaitTime: 0
-  movePositions: []
+  movePositions:
+  - {fileID: 1892840835}
+  - {fileID: 280799569}
+  - {fileID: 258572175}
+  - {fileID: 870357292}
 --- !u!212 &2023076307
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -29919,7 +29943,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 10
   startWaitTime: 0
-  movePositions: []
+  movePositions:
+  - {fileID: 548593842}
+  - {fileID: 467065655}
+  - {fileID: 836244706}
+  - {fileID: 75023475}
 --- !u!212 &2138570483
 SpriteRenderer:
   m_ObjectHideFlags: 0
