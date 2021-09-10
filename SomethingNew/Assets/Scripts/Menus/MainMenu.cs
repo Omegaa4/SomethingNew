@@ -18,4 +18,15 @@ public class MainMenu : MonoBehaviour {
         Screen.fullScreen = isFullScreen;
     }
 
+    void Update()
+    {
+        if (Input.GetKeyDown("escape"))
+        {
+            SceneManager.LoadScene(sceneBuildIndex:1);
+            Debug.Log("hamphborger");
+        }
+
+    }
+
+
 }
