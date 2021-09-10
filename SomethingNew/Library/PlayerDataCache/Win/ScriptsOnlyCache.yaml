@@ -12,6 +12,7 @@ ScriptsOnlyBuild:
     - SlotRefresh
     - Spawn
     - enemy
+    - enemyPatrol
     Cinemachine.dll:
     - Cinemachine.CinemachineBrain
     - Cinemachine.CinemachineComposer
@@ -22,17 +23,14 @@ ScriptsOnlyBuild:
     - UnityEditor.U2D.Animation.BoneGizmo
     Unity.2D.IK.Editor.dll:
     - UnityEditor.U2D.IK.IKEditorManager
+    - UnityEditor.U2D.IK.IKGizmos
     Unity.2D.IK.Runtime.dll:
     - UnityEditor.U2D.IK.IKEditorManagerHelper
     Unity.2D.Tilemap.Editor.dll:
     - UnityEditor.Tilemaps.GridBrush
-    - UnityEditor.Tilemaps.GridBrushEditor
-    - UnityEditor.Tilemaps.GridPaintPaletteClipboard
-    - UnityEditor.Tilemaps.GridPaintPaletteWindow
     - UnityEditor.Tilemaps.GridPaintingState
     - UnityEditor.Tilemaps.GridPaletteBrushes
     - UnityEditor.Tilemaps.GridPalettes
-    - UnityEditor.Tilemaps.PaintableSceneViewGrid
     - UnityEditor.Tilemaps.SceneViewGridManager
     - UnityEditor.Tilemaps.SceneViewOpenTilePaletteHelper
     - UnityEditor.Tilemaps.TileDragAndDropManager
@@ -106,9 +104,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 3248}
     - Class: 114
-      Script: {instanceID: 4470}
+      Script: {instanceID: 4472}
     - Class: 114
-      Script: {instanceID: 4568}
+      Script: {instanceID: 4570}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -189,15 +187,17 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 3248}
     - Class: 114
-      Script: {instanceID: 3704}
+      Script: {instanceID: 3544}
     - Class: 114
-      Script: {instanceID: 3898}
+      Script: {instanceID: 3706}
     - Class: 114
-      Script: {instanceID: 3976}
+      Script: {instanceID: 3900}
     - Class: 114
-      Script: {instanceID: 4568}
+      Script: {instanceID: 3978}
     - Class: 114
-      Script: {instanceID: 5254}
+      Script: {instanceID: 4570}
+    - Class: 114
+      Script: {instanceID: 5256}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -299,13 +299,13 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 3248}
     - Class: 114
-      Script: {instanceID: 4166}
+      Script: {instanceID: 4168}
     - Class: 114
-      Script: {instanceID: 4352}
+      Script: {instanceID: 4354}
     - Class: 114
-      Script: {instanceID: 4568}
+      Script: {instanceID: 4570}
     - Class: 114
-      Script: {instanceID: 5324}
+      Script: {instanceID: 5326}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -807,6 +807,12 @@ ScriptsOnlyBuild:
     className: Outline
   - hash:
       serializedVersion: 2
+      Hash: ff15a913cf3a524933a16e5991149176
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: enemyPatrol
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Cinemachine.dll
     namespaceName: Cinemachine
@@ -1207,4 +1213,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/Start menu.unity
   - Assets/Scenes/Main.unity
   - Assets/Scenes/Pause.unity
-  playerPath: C:/Users/linyx/Documents/Code/Omegaa4/DTGGANG/SomethingNew/tESTBUILDS/SomethingNew.exe
+  playerPath: C:/Users/linyx/Documents/Code/Omegaa4/DTGGANG/SomethingNew/Test Builds/Second/SomethingNew.exe
